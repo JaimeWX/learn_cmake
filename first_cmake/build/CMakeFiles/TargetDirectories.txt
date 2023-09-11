@@ -1,0 +1,3 @@
+/home/westwell/learn_cmake/first_cmake/build/CMakeFiles/first_make.dir
+/home/westwell/learn_cmake/first_cmake/build/CMakeFiles/edit_cache.dir
+/home/westwell/learn_cmake/first_cmake/build/CMakeFiles/rebuild_cache.dir
