@@ -1,0 +1,3 @@
+/home/westwell/learn_cmake/cmake_lib/test_xlog/build/CMakeFiles/test_xlog.dir
+/home/westwell/learn_cmake/cmake_lib/test_xlog/build/CMakeFiles/edit_cache.dir
+/home/westwell/learn_cmake/cmake_lib/test_xlog/build/CMakeFiles/rebuild_cache.dir
